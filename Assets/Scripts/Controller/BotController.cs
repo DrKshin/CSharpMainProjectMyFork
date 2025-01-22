@@ -6,7 +6,7 @@ using Model;
 using Model.Config;
 using UnityEngine;
 using Utilities;
-//hello. This is Fedya
+//hello. I'm Fedor
 {
     public class BotController
     {
