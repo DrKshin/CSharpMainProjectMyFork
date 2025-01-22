@@ -7,7 +7,7 @@ using Model.Config;
 using UnityEngine;
 using Utilities;
 //давай по новой
-
+//как сам?
 
 namespace Controller
 {
